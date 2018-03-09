@@ -1,7 +1,7 @@
 Yllirium integration/staging tree
 ================================
 
-http://www.yllirium.org
+http://www.yllirium.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2024 Yllirium Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Yllirium client sofware, see http://www.yllirium.org (in progress)
+the Yllirium client sofware, see http://www.yllirium.com (in progress)
 
 License
 -------
