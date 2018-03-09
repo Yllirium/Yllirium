@@ -3,7 +3,7 @@ Yllirium integration/staging tree
 
 http://www.yllirium.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2018 Bitcoin Developers
 Copyright (c) 2011-2024 Yllirium Developers
 
 What is Yllirium?
