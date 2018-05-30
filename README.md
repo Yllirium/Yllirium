@@ -18,6 +18,8 @@ The rest is the same as Bitcoin.
  - 50 coins per block
  - 2016 blocks to retarget difficulty
 
+ - Coin abbreviation 	YLL
+ 
 For more information, as well as an immediately useable, binary version of
 the Yllirium client sofware, see http://www.yllirium.com (in progress)
 
